@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "are u sure lol?",
-    "rlly sure?",
-    "are u positive!",
-    "for the love of veiny ahh dih??",
-    "just think about it fr",
-    "if u say no ill be rlly sad...",
-    "really really sad..",
-    "*points finger gun to head*",
-    "okay fine ill stop asking im nonchalant fr",
-    "just kidding, say yes please! ❤️"
+     "Are you sure?",
+    "Really sure??",
+    "Are you positive?",
+    "Pookie please...",
+    "Just think about it!",
+    "If you say no, I will be really sad...",
+    "I will be very sad...",
+    "I will be very very very sad...",
+    "Ok fine, I will stop asking...",
+    "Just kidding, say yes please! ❤️
 ];
 
 let messageIndex = 0;
